@@ -9,5 +9,5 @@
 - **Nom d'utilisateur :** A
 - **Mot de passe :** A
 - **Rôle :** Administrateur
-  - Accès complet à toutes les fonctionnalités : gestion des utilisateurs, création de sessions, rapports détaillés, etc.
+  - Accès complet à toutes les fonctionnalités :création de sessions et gestion de session.
 
